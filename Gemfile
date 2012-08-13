@@ -41,4 +41,3 @@ gem 'jquery-rails'
 
 gem 'acts-as-taggable-on'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
-gem "aws-s3"
